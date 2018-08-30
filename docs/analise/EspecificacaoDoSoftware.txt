@@ -1,0 +1,19 @@
+Especificação de Software
+
+Brenda Santana - RA: 1801079
+
+Na sistematização e engenharia de software, análise de requisitos engloba 
+todas as tarefas que lidam com investigação, definição e escopo de novos 
+sistemas ou alterações. Análise de requisitos é uma parte importante do processo 
+de desenvolvimento de softwares, na qual o engenheiro de requisitos e o 
+analista de negócio, juntamente com engenheiro de sistema ou desenvolvedor de 
+software, identificam as necessidades ou requisitos de um cliente. Uma vez que 
+os requisitos do sistema tenham sido identificados, os projetistas de sistemas 
+estarão preparados para projetar a solução. A análise de requisitos é uma das 
+primeiras atividades de desenvolvimento de software. O produto do seu trabalho 
+é a especificação de requisitos, que é define o escopo do software em duas dimensões: 
+Requisito funcional e Requisito não-funcional[1]. É nesta fase que o analista faz as 
+primeiras reuniões com os clientes e/ou usuários do software para conhecer as funcionalidades 
+do sistema que será desenvolvido. É nesta fase também que ocorre a maior parte dos erros, 
+pois a falta de experiência dos clientes ou usuários faz com que eles nem sempre tenham 
+claro em sua mente quais funcionalidades o software terá.
