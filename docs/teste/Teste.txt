@@ -15,3 +15,10 @@ Nesse sentido, definir quando as atividades de verificação e validação iniciam
 e terminam, como os atributos de qualidade serão avaliados e como os releases
 do software serão controlados, são questões que devem ser acompanhadas ao longo
 do processo de software.
+
+Teste
+Gabriel Prado Lolo - RA:1800411
+O processo de testar a codificação é árduo. As pessoas não costumam perceber o quão 
+cansativo é esse processo, pra checar cada possibilidade, cada detalhe ou caminho do 
+código para evitar que o cliente tenha diversos tipo de inconveniencias em seus processos
+Com certeza não é tarefa fácil, porém, se tem algo que compensa o esforço, é o resultado.
