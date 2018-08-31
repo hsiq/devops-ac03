@@ -1,8 +1,9 @@
-Itens de configuração Arquitetura:
+JoÃ£o Victor Nunes dos Santos - RA: 1801142
+Itens de configuraÃ§Ã£o Arquitetura:
 
 Esquema e estrutura de arquivo, servir de base para a analise.
-Conhecimento de técnicas de levantamento de requisitos, e de métodos de modelagem e desenvolvimento de sistema, prototipagem,
-simulação e experimentação, conhecimento das estratégias de negócios da empresa.Análise de tendências tecnológicas, conhecimento
-de processos, estratégias e produtos de empresas concorrentes. Identificação de componentes e identificação de mecanismos de interação.
-Identificação de propriedades  (o arquiteto pode analisar as propriedades oferecidas por cada estilo baseado na organização dos componentes
-e nos mecanismos de interação). Controlar versões
+Conhecimento de tÃ©cnicas de levantamento de requisitos, e de mÃ©todos de modelagem e desenvolvimento de sistema, prototipagem,
+simulaÃ§Ã£o e experimentaÃ§Ã£o, conhecimento das estratÃ©gias de negÃ³cios da empresa.AnÃ¡lise de tendÃªncias tecnolÃ³gicas, conhecimento
+de processos, estratÃ©gias e produtos de empresas concorrentes. IdentificaÃ§Ã£o de componentes e identificaÃ§Ã£o de mecanismos de interaÃ§Ã£o.
+IdentificaÃ§Ã£o de propriedades  (o arquiteto pode analisar as propriedades oferecidas por cada estilo baseado na organizaÃ§Ã£o dos componentes
+e nos mecanismos de interaÃ§Ã£o). Controlar versÃµes
