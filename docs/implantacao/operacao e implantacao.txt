@@ -1,0 +1,21 @@
+Gerenciamento de Operações de TI
+O Controle de Operações de TI é geralmente composto por turnos de 
+operadores que realizam tarefas operacionais de rotina. 
+Eles fornecem monitoramento e controle centralizado, geralmente a 
+partir de uma ponte de operações ou uma rede de centros de operações.
+
+O O Gerenciamento de Instalações é responsável pela gestão dos 
+data centers, salas de computadores e sítios de recuperação. 
+Também coordena projetos de larga escala, assim como a consolidação do
+data center ou servidor.
+
+Com base nisso, a QoS oferece serviço de Gerenciamento de Operações 
+que seguem as seguintes etapas:
+Mapear e criar o processo para tratamento dos incidentes, eventos, 
+problema e acesso, definir recursos necessários, Software, 
+Hardware e Recursos Humanos, definição de indicadores.
+Implantação da Operação de TI, implantação dos processos, customização
+do software para controle de incidentes, eventos e problemas, 
+fornecimento e treinamento de equipe.
+Monitoração dos indicadores, entrega de relatórios de desempenho e 
+recomendações de melhoria.
