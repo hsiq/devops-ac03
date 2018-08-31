@@ -1,5 +1,5 @@
 Especificação de Software
-
+-----------------------------------------------------------------------------------------
 Brenda Santana - RA: 1801079
 
 Na sistematização e engenharia de software, análise de requisitos engloba 
