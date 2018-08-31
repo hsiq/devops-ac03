@@ -1,0 +1,8 @@
+Itens de configuração Arquitetura:
+
+Esquema e estrutura de arquivo, servir de base para a analise.
+Conhecimento de técnicas de levantamento de requisitos, e de métodos de modelagem e desenvolvimento de sistema, prototipagem,
+simulação e experimentação, conhecimento das estratégias de negócios da empresa.Análise de tendências tecnológicas, conhecimento
+de processos, estratégias e produtos de empresas concorrentes. Identificação de componentes e identificação de mecanismos de interação.
+Identificação de propriedades  (o arquiteto pode analisar as propriedades oferecidas por cada estilo baseado na organização dos componentes
+e nos mecanismos de interação). Controlar versões
