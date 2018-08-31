@@ -1,0 +1,17 @@
+Teste
+Hellen Mendes Barbosa - RA:1801219
+
+Uma atividade essencial no desenvolvimento de todo e qualquer projeto é o planejamento.
+Um plano tem o papel semelhante ao de um ‘mapa’.Sem um mapa, um plano ou qualquer outra
+fonte de informação similar, você não conhecerá seus objetivos, nem aonde quer chegar
+e jamais terá a certeza de ter alcançado sua meta.
+Perceba que entender o propósito do planejamento é de suma importância a fim de
+monitorar a execução de atividades, sendo também importante conhecer o papel dos
+riscos no planejamento, bem como diferenciar estratégias de planos.
+Teste de software é uma das atividades do processo de desenvolvimento de sistema
+de software que visa executar um programa de modo sistemático com o objetivo
+de encontrar falhas. Perceba que isto requer verificação e validação de software.
+Nesse sentido, definir quando as atividades de verificação e validação iniciam
+e terminam, como os atributos de qualidade serão avaliados e como os releases
+do software serão controlados, são questões que devem ser acompanhadas ao longo
+do processo de software.
