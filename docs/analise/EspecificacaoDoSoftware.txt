@@ -17,3 +17,17 @@ primeiras reuniões com os clientes e/ou usuários do software para conhecer as fu
 do sistema que será desenvolvido. É nesta fase também que ocorre a maior parte dos erros, 
 pois a falta de experiência dos clientes ou usuários faz com que eles nem sempre tenham 
 claro em sua mente quais funcionalidades o software terá.
+
+----------------------------------------------------------------------------------------
+
+Ana Beatriz Lima Tonasse - RA:1800403
+
+A Análise de Requisitos ou Engenharia de Requisitos é um aspecto importante no Gerenciamento de Projetos, 
+é a responsável por coletar dados indispensáveis, necessários, exigências de que o usuário necessite para 
+solucionar um problema e alcançar seus objetivos. Assim como determinar as suas expectativas de um usuário 
+para determinado produto.
+Essa análise de requisitos é vital para o desenvolvimento do sistema, ela vai determinar o sucesso ou o fra-
+casso do projeto. Os requisitos colhidos devem ser quantitativos, detalhados e relevantes para o projeto.   
+Pois eles fornecerão a referência para validar o produto final, estabelecerão o acordo entre cliente e forne-
+cedor sobre o que e o software fará e consequentemente reduzirão os custos de desenvolvimento, pois requisitos
+mal definidos implicam num retrabalho.
